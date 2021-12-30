@@ -1,0 +1,4 @@
+*** To run nextjs server ** == npm run dev
+*** Deploy Smart contract ** == (go to etherum folder) then node deploy.js
+*** Compile contracts ** == (go to etherum folder) then truffle migrate
+*** Run truffle server blockchain *** ==(go to etherum folder)then truffle development 
